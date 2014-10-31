@@ -1,5 +1,5 @@
 
-    They are all conference hopping shit-heads. When you build a new system, you get to be the master of it. You get fly all over the world so devs who are worried about their skills being out of date can you here you preach your stupid shit, and buy your dumb-ass books. It is a business for these people.
+>They are all conference hopping shit-heads. When you build a new system, you get to be the master of it. You get fly all over the world so devs who are worried about their skills being out of date can you here you preach your stupid shit, and buy your dumb-ass books. It is a business for these people.
 
 AngularJS [![Build Status](https://travis-ci.org/angular/angular.js.svg?branch=master)](https://travis-ci.org/angular/angular.js)
 =========
